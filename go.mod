@@ -1,3 +1,3 @@
-module github.com/polyglot-chameleon/goutil/v2
+module github.com/polyglot-chameleon/goutil
 
 go 1.23.0
